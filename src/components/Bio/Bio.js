@@ -2,6 +2,7 @@ import React from 'react';
 import Row from 'react-bootstrap/Row'
 import Col from 'react-bootstrap/Col'
 import Headshot from './my_headshot.jpg'
+import "./bioCSS.css"
 
 function Bio() {
     return (
@@ -11,7 +12,7 @@ function Bio() {
                 <Row>
                     <Col>
                         <div id="bioBox">
-                            <img src={Headshot} alt='Will Oakley' style={{ float: "left" }} />
+                            <img src={Headshot} alt='Will Oakley' id="bioPic" />
                             <p className="bioText">Hey there! My name is Will Oakley, a full stack web developer and graduate of Northwestern's Coding Bootcamp. I've worked in software development for twelve years as both a writer, a production specialist, and, now, a developer.</p>
 
                             <p className="bioText">I'm interested in web development, javascript, and finding ways to apply technology to help others.</p>

@@ -1,8 +1,18 @@
 #bioBox {
-    border-style: "solid";
-    display: "inline-block"
+    border-style: solid;
+    display: inline-block;
 }
 
 .bioText {
     margin: auto;
+}
+
+#bioPic {
+    float: left;
+}
+
+@media screen and (max-width: 640px) {
+    #bioPic {
+        float: none;
+    }
 }
