@@ -3,6 +3,7 @@ import './App.css';
 import Header from './components/Header';
 import Container from 'react-bootstrap/Container';
 import Bio from './components/Bio/Bio';
+import ProjectGrid from './components/ProjectGrid/ProjectGrid';
 
 
 function App() {
@@ -11,6 +12,7 @@ function App() {
       <Header />
       <Container>
         <Bio />
+        <ProjectGrid />
       </Container>
     </div>
   );
