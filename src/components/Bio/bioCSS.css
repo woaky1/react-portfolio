@@ -5,6 +5,8 @@
 
 .bioText {
     margin: auto;
+    text-align: left;
+    padding: 1.2rem;
 }
 
 #bioPic {
@@ -14,5 +16,11 @@
 @media screen and (max-width: 640px) {
     #bioPic {
         float: none;
+        margin: auto;
+        padding-right: 1rem;
+    }
+
+    .bioText {
+        padding: auto;
     }
 }
