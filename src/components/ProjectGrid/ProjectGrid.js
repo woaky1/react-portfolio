@@ -2,7 +2,9 @@ import React from 'react';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Project from '../Project/Project';
+import projectInfo from './projectData.json';
 
+console.log(projectInfo[0].title)
 function ProjectGrid() {
     return (
         <Row>
@@ -17,9 +19,18 @@ function ProjectGrid() {
                     </Col>
                 </Row>
                 <Row>
-                    <Col><Project /></Col>
-                    <Col><Project /></Col>
+                    <Col>
+                        <Project project={projectInfo[0]}/>
+                    </Col>
+                    {/* <Col>
+                        <Project />
+                    </Col> */}
                 </Row>
+                {/* <Row>
+                    <Col>
+                        <Project />
+                    </Col>
+                </Row> */}
             </Col>
             <Col></Col>
         </Row>
