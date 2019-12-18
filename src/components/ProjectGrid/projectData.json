@@ -1,7 +1,7 @@
 [
     {
         "title": "Bamazon",
-        "img": "./images/Bamazon.jpg",
+        "img": "./images/bamazon.jpg",
         "description": "A mySQL/Node project designed to create a CLI shopping experience.",
         "github": "https://github.com/woaky1/bamazon"
     },
@@ -13,8 +13,29 @@
         "weblink": "https://woaky1.github.io/giphyProject/"
     },
     {
+        "title": "Chicago Commute Checker",
+        "img": "./images/commute.jpg",
+        "description": "A web application to help Chicago commuters figure out what their commute will look like.",
+        "github": "https://github.com/ChicagoCommuteChecker/ChicagoCommuteCheckerApp",
+        "weblink": "https://chicagocommutechecker.github.io/ChicagoCommuteCheckerApp/"
+    },
+    {
         "title": "Eat Da Burger!",
-        "img": "./images/Burger.jpg",
+        "img": "./images/burger.jpg",
+        "description": "An app for... logging burgers you want to eat.",
+        "github": "https://github.com/woaky1/burger",
+        "weblink": "https://young-earth-36081.herokuapp.com/"
+    },
+    {
+        "title": "Eat Da Burger!",
+        "img": "./images/burger.jpg",
+        "description": "An app for... logging burgers you want to eat.",
+        "github": "https://github.com/woaky1/burger",
+        "weblink": "https://young-earth-36081.herokuapp.com/"
+    },
+    {
+        "title": "Eat Da Burger!",
+        "img": "./images/burger.jpg",
         "description": "An app for... logging burgers you want to eat.",
         "github": "https://github.com/woaky1/burger",
         "weblink": "https://young-earth-36081.herokuapp.com/"
