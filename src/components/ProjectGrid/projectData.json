@@ -6,7 +6,14 @@
         "github": "https://github.com/woaky1/bamazon"
     },
     {
-        "title": "Burger",
+        "title": "Brooklyn 99 Gif Generator",
+        "img": "./images/99.jpg",
+        "description": "Search for gifs of everyone's favorite police force.",
+        "github": "https://github.com/woaky1/giphyProject",
+        "weblink": "https://woaky1.github.io/giphyProject/"
+    },
+    {
+        "title": "Eat Da Burger!",
         "img": "./images/Burger.jpg",
         "description": "An app for... logging burgers you want to eat.",
         "github": "https://github.com/woaky1/burger",

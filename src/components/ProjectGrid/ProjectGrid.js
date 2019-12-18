@@ -3,34 +3,30 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Project from '../Project/Project';
 import projectInfo from './projectData.json';
+import CardGroup from 'react-bootstrap/CardGroup';
 
-console.log(projectInfo[0].title)
 function ProjectGrid() {
+    let cards = [];
+    for (let i=0; i < projectInfo.length; i++) {
+        cards.push(<Project project={projectInfo[i]} />)
+    }
     return (
         <Row>
             <Col></Col>
             <Col md={10}>
                 <Row>
                     <Col>
-                        <div>
-                            <h1>Projects</h1>
-                            <hr />
-                        </div>
+                        <h1>Projects</h1>
+                        <hr />
                     </Col>
                 </Row>
                 <Row>
-                    <Col style={{float: 'left'}}>
-                        <Project project={projectInfo[0]}/>
-                    </Col>
                     <Col>
-                        <Project project={projectInfo[1]}/>
+                        <CardGroup>
+                            {cards}
+                        </CardGroup>
                     </Col>
                 </Row>
-                {/* <Row>
-                    <Col>
-                        <Project />
-                    </Col>
-                </Row> */}
             </Col>
             <Col></Col>
         </Row>
