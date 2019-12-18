@@ -87,5 +87,11 @@
         "description": "A game I put together to practice using timers in Javascript.",
         "github": "https://github.com/woaky1/TriviaGame",
         "weblink": "https://woaky1.github.io/TriviaGame/"
+    },
+    {
+        "title": "WordGuess_Cli",
+        "img": "./images/wordguess_cli.jpg",
+        "description": "A cli hangman-style game I built to practice working in Node and building constructor functions.",
+        "github": "https://github.com/woaky1/WordGuess_Cli"
     }
 ]
