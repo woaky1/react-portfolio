@@ -31,7 +31,7 @@ function Bio() {
                                 </Col>
                                 <Col lg={9} md={6}>
                                     <div>
-                                        <p className="bioText">Hey there! My name is Will Oakley, a full stack web developer and graduate of Northwestern's Coding Bootcamp. I've worked in software development for twelve years as both a writer, a production specialist, and, now, a developer.</p>
+                                        <p className="bioText">Hey there! My name is Will Oakley, a full stack web developer and graduate of Northwestern's Coding Bootcamp. I've worked in software development for twelve years as a writer, a production specialist, and, now, a developer.</p>
                                         <p className="bioText">I'm interested in web development, javascript, and finding ways to apply technology to help others.</p>
                                         <p className="bioText">I'm also a <a href="https://ddb.ac/characters/2700895/iwpTsp" target="_blank" rel="noopener noreferrer">level 8 barbarian</a> in a <em>Dungeons &amp; Dragons</em> game with my friends.</p>
                                         <p className="bioText">You can check out my resume <a href={resume}>here</a>.</p>
