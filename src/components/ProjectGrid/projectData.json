@@ -27,13 +27,6 @@
         "weblink": "https://chicago-school-info.herokuapp.com/"
     },
     {
-        "title": "PokéClick!",
-        "img": "./images/pokeclick.jpg",
-        "description": "A memory game created as an exercise for learning React.",
-        "github": "https://github.com/woaky1/clicky_game",
-        "weblink": "https://woaky1.github.io/clicky_game/"
-    },
-    {
         "title": "CrystalsCollector",
         "img": "./images/crystals.jpg",
         "description": "A game I built to develop my javascript and jQuery skills. Click gems to score points and try to match a random target number.",
@@ -46,5 +39,32 @@
         "description": "An app for... logging burgers you want to eat.",
         "github": "https://github.com/woaky1/burger",
         "weblink": "https://young-earth-36081.herokuapp.com/"
+    },
+    {
+        "title": "FriendFinder",
+        "img": "./images/friendfinder.jpg",
+        "description": "A friend compatibility app made to get to know Node and Express better.",
+        "github": "https://github.com/woaky1/FriendFinder",
+        "weblink": "https://gentle-woodland-03458.herokuapp.com/"
+    },
+    {
+        "title": "Liri",
+        "img": "./images/liri.jpg",
+        "description": "A command-line-interface entertainment search app.",
+        "github": "https://github.com/woaky1/liri-node-app"
+    },
+    {
+        "title": "PokéClick!",
+        "img": "./images/pokeclick.jpg",
+        "description": "A memory game created as an exercise for learning React.",
+        "github": "https://github.com/woaky1/clicky_game",
+        "weblink": "https://woaky1.github.io/clicky_game/"
+    },
+    {
+        "title": "Psychic Game",
+        "img": "./images/psychic.jpg",
+        "description": "A letter guessing game I developed to help me get to know javascript programming.",
+        "github": "https://github.com/woaky1/Psychic-Game",
+        "weblink": "https://woaky1.github.io/Psychic-Game/"
     }
 ]
