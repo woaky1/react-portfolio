@@ -10,7 +10,7 @@ function App() {
   return (
     <div className="App">
       <Header />
-      <Container>
+      <Container fluid='true' id="container">
         <Bio />
         <ProjectGrid />
       </Container>
