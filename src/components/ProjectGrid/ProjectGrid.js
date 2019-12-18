@@ -8,7 +8,7 @@ import CardGroup from 'react-bootstrap/CardGroup';
 function ProjectGrid() {
     let cards = [];
     for (let i=0; i < projectInfo.length; i++) {
-        cards.push(<Project project={projectInfo[i]} />)
+        cards.push(<Project project={projectInfo[i]} key={projectInfo[i].title} />)
     }
     return (
         <Row>

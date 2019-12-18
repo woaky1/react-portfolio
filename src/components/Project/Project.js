@@ -4,7 +4,6 @@ import Button from 'react-bootstrap/Button';
 import "./projectCSS.css";
 
 function Project(props) {
-    console.log(props.project.img)
     if (props.project.weblink) {
         return (
             <Card style={{ maxWidth: '18rem', minWidth: "15rem" }}>

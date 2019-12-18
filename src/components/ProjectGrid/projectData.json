@@ -29,7 +29,7 @@
     {
         "title": "CrystalsCollector",
         "img": "./images/crystals.jpg",
-        "description": "A game I built to develop my javascript and jQuery skills. Click gems to score points and try to match a random target number.",
+        "description": "A game I built to develop my Javascript and jQuery skills. Click gems to score points and try to match a random target number.",
         "github": "https://github.com/woaky1/unit-4-game",
         "weblink": "https://woaky1.github.io/unit-4-game/"
     },
@@ -54,6 +54,13 @@
         "github": "https://github.com/woaky1/liri-node-app"
     },
     {
+        "title": "PlanIt",
+        "img": "./images/planit.jpg",
+        "description": "An application is for a user to login and create events/activities to render an itinerary.",
+        "github": "https://github.com/Bootcamp-Vacation-Planner/vacation-planner",
+        "weblink": "https://peaceful-eyrie-80310.herokuapp.com/"
+    },
+    {
         "title": "PokéClick!",
         "img": "./images/pokeclick.jpg",
         "description": "A memory game created as an exercise for learning React.",
@@ -63,8 +70,22 @@
     {
         "title": "Psychic Game",
         "img": "./images/psychic.jpg",
-        "description": "A letter guessing game I developed to help me get to know javascript programming.",
+        "description": "A letter guessing game I developed to help me get to know Javascript programming.",
         "github": "https://github.com/woaky1/Psychic-Game",
         "weblink": "https://woaky1.github.io/Psychic-Game/"
+    },
+    {
+        "title": "Train Tracker",
+        "img": "./images/traintracker.jpg",
+        "description": "An automatically updating train schedule built to learn about Firebase.",
+        "github": "https://github.com/woaky1/trainTracker",
+        "weblink": "https://woaky1.github.io/trainTracker/"
+    },
+    {
+        "title": "Trivia Game",
+        "img": "./images/trivia.jpg",
+        "description": "A game I put together to practice using timers in Javascript.",
+        "github": "https://github.com/woaky1/TriviaGame",
+        "weblink": "https://woaky1.github.io/TriviaGame/"
     }
 ]
