@@ -7,7 +7,7 @@ function Project(props) {
     console.log(props.project.img)
     if (props.project.weblink) {
         return (
-            <Card style={{ maxWidth: '18rem', minWidth: "13rem" }}>
+            <Card style={{ maxWidth: '18rem', minWidth: "15rem" }}>
                 <Card.Img variant="top" src={require(`${props.project.img}`)} />
                 <Card.Body className="left">
                     <Card.Title className="left">{props.project.title}</Card.Title>
@@ -21,7 +21,7 @@ function Project(props) {
         );
     } else {
         return (
-            <Card style={{ maxWidth: '18rem', minWidth: "13rem" }}>
+            <Card style={{ maxWidth: '18rem', minWidth: "15rem" }}>
                 <Card.Img variant="top" src={require(`${props.project.img}`)} />
                 <Card.Body>
                     <Card.Title className="left">{props.project.title}</Card.Title>

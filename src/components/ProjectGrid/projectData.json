@@ -20,18 +20,25 @@
         "weblink": "https://chicagocommutechecker.github.io/ChicagoCommuteCheckerApp/"
     },
     {
-        "title": "Eat Da Burger!",
-        "img": "./images/burger.jpg",
-        "description": "An app for... logging burgers you want to eat.",
-        "github": "https://github.com/woaky1/burger",
-        "weblink": "https://young-earth-36081.herokuapp.com/"
+        "title": "Chicago School Search",
+        "img": "./images/school-info.jpg",
+        "description": "A website that helps Chicago citizens be better informed about public schools in their area.",
+        "github": "https://github.com/Chicago-School-Information/school-info",
+        "weblink": "https://chicago-school-info.herokuapp.com/"
     },
     {
-        "title": "Eat Da Burger!",
-        "img": "./images/burger.jpg",
-        "description": "An app for... logging burgers you want to eat.",
-        "github": "https://github.com/woaky1/burger",
-        "weblink": "https://young-earth-36081.herokuapp.com/"
+        "title": "PokéClick!",
+        "img": "./images/pokeclick.jpg",
+        "description": "A memory game created as an exercise for learning React.",
+        "github": "https://github.com/woaky1/clicky_game",
+        "weblink": "https://woaky1.github.io/clicky_game/"
+    },
+    {
+        "title": "CrystalsCollector",
+        "img": "./images/crystals.jpg",
+        "description": "A game I built to develop my javascript and jQuery skills. Click gems to score points and try to match a random target number.",
+        "github": "https://github.com/woaky1/unit-4-game",
+        "weblink": "https://woaky1.github.io/unit-4-game/"
     },
     {
         "title": "Eat Da Burger!",
