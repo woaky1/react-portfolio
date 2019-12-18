@@ -19,12 +19,12 @@ function ProjectGrid() {
                     </Col>
                 </Row>
                 <Row>
-                    <Col>
+                    <Col style={{float: 'left'}}>
                         <Project project={projectInfo[0]}/>
                     </Col>
-                    {/* <Col>
-                        <Project />
-                    </Col> */}
+                    <Col>
+                        <Project project={projectInfo[1]}/>
+                    </Col>
                 </Row>
                 {/* <Row>
                     <Col>

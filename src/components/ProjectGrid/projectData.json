@@ -1,6 +1,15 @@
 [
     {
         "title": "Bamazon",
-        "img": "./images/Bamazon.jpg"
+        "img": "./images/Bamazon.jpg",
+        "description": "A mySQL/Node project designed to create a CLI shopping experience.",
+        "github": "https://github.com/woaky1/bamazon"
+    },
+    {
+        "title": "Burger",
+        "img": "./images/Burger.jpg",
+        "description": "An app for... logging burgers you want to eat.",
+        "github": "https://github.com/woaky1/burger",
+        "weblink": "https://young-earth-36081.herokuapp.com/"
     }
 ]
