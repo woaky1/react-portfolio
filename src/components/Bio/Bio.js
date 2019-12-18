@@ -23,12 +23,12 @@ function Bio() {
                                 </Col>
                             </Row>
                             <Row>
-                                <Col lg={4} md={6}>
-                                    <div>
-                                        <img src={Headshot} alt='Will Oakley' id="bioPic" />
+                                <Col lg={3} md={6}>
+                                    <div >
+                                        <img src={Headshot} alt='Will Oakley' id="bioPic" className="img-fluid d-block m-auto"/>
                                     </div>
                                 </Col>
-                                <Col lg={8} md={6}>
+                                <Col lg={9} md={6}>
                                     <div>
                                         <p className="bioText">Hey there! My name is Will Oakley, a full stack web developer and graduate of Northwestern's Coding Bootcamp. I've worked in software development for twelve years as both a writer, a production specialist, and, now, a developer.</p>
                                         <p className="bioText">I'm interested in web development, javascript, and finding ways to apply technology to help others.</p>
