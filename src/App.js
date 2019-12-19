@@ -4,7 +4,7 @@ import Header from './components/Header';
 import Container from 'react-bootstrap/Container';
 import Bio from './components/Bio/Bio';
 import ProjectGrid from './components/ProjectGrid/ProjectGrid';
-import Footer from './Footer/Footer';
+import Footer from './components/Footer/Footer';
 
 
 function App() {
