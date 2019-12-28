@@ -10,6 +10,7 @@
         "title": "Brooklyn 99 Gif Generator",
         "img": "./images/99.jpg",
         "description": "Search for gifs of everyone's favorite police force.",
+        "tech": "Bootstrap, jQuery, Giphy API",
         "github": "https://github.com/woaky1/giphyProject",
         "weblink": "https://woaky1.github.io/giphyProject/"
     },
