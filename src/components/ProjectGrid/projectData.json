@@ -3,6 +3,7 @@
         "title": "Bamazon",
         "img": "./images/bamazon.jpg",
         "description": "A mySQL/Node project designed to create a CLI shopping experience.",
+        "tech": "mySQL, Node.js, and the mysql and inquirer npm packages",
         "github": "https://github.com/woaky1/bamazon"
     },
     {
