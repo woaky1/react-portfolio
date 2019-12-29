@@ -10,7 +10,7 @@
         "title": "Brooklyn 99 Gif Generator",
         "img": "./images/99.jpg",
         "description": "Search for gifs of everyone's favorite police force.",
-        "tech": "Bootstrap, jQuery, Giphy API",
+        "tech": "HTML5, CSS3, Javascript, Bootstrap, jQuery, Giphy API",
         "github": "https://github.com/woaky1/giphyProject",
         "weblink": "https://woaky1.github.io/giphyProject/"
     },
@@ -18,6 +18,7 @@
         "title": "Chicago Commute Checker",
         "img": "./images/commute.jpg",
         "description": "A web application to help Chicago commuters figure out what their commute will look like.",
+        "tech": "HTML5, CSS3, Javascript, jQuery, Moment.js, Materialize, CTA and OpenWeather APIs",
         "github": "https://github.com/ChicagoCommuteChecker/ChicagoCommuteCheckerApp",
         "weblink": "https://chicagocommutechecker.github.io/ChicagoCommuteCheckerApp/"
     },
@@ -25,6 +26,7 @@
         "title": "Chicago School Search",
         "img": "./images/school-info.jpg",
         "description": "A website that helps Chicago citizens be better informed about public schools in their area.",
+        "tech": "HTML5, CSS3, Bootstrap, Node.js, Sequelize, Node Express, MySQL, Google Maps and Google Geocoding APIs",
         "github": "https://github.com/Chicago-School-Information/school-info",
         "weblink": "https://chicago-school-info.herokuapp.com/"
     },
