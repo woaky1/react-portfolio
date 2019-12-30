@@ -50,6 +50,7 @@
         "title": "FriendFinder",
         "img": "./images/friendfinder.jpg",
         "description": "A friend compatibility app made to get to know Node and Express better.",
+        "tech": "HTML5, CSS3, Javascript, jQuery, Bootstrap, Express.js, Heroku",
         "github": "https://github.com/woaky1/FriendFinder",
         "weblink": "https://gentle-woodland-03458.herokuapp.com/"
     },
@@ -57,6 +58,7 @@
         "title": "Liri",
         "img": "./images/liri.jpg",
         "description": "A command-line-interface entertainment search app.",
+        "tech": "Node.js, dotenv, axios, Moment.js, node-spotify-api, fs",
         "github": "https://github.com/woaky1/liri-node-app"
     },
     {
