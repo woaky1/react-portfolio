@@ -58,13 +58,14 @@
         "title": "Liri",
         "img": "./images/liri.jpg",
         "description": "A command-line-interface entertainment search app.",
-        "tech": "Node.js, dotenv, axios, Moment.js, node-spotify-api, fs",
+        "tech": "Node.js, dotenv, axios, Moment.js, node-spotify-api, fs, and the OMDb, Bandsintown, and Spotify APIs",
         "github": "https://github.com/woaky1/liri-node-app"
     },
     {
         "title": "PlanIt",
         "img": "./images/planit.jpg",
         "description": "An application is for a user to login and create events/activities to render an itinerary.",
+        "tech": "HTML5, CSS3, Node.js, Passport, bcrypt, React, Express.js, MongoDB, Material-UI, Axios, Moment.js, Heroku",
         "github": "https://github.com/Bootcamp-Vacation-Planner/vacation-planner",
         "weblink": "https://peaceful-eyrie-80310.herokuapp.com/"
     },
@@ -72,6 +73,7 @@
         "title": "PokéClick!",
         "img": "./images/pokeclick.jpg",
         "description": "A memory game created as an exercise for learning React.",
+        "tech": "HTML5, CSS3, Node.js, Bootstrap, React, gh-pages",
         "github": "https://github.com/woaky1/clicky_game",
         "weblink": "https://woaky1.github.io/clicky_game/"
     },
@@ -79,6 +81,7 @@
         "title": "Psychic Game",
         "img": "./images/psychic.jpg",
         "description": "A letter guessing game I developed to help me get to know Javascript programming.",
+        "tech": "HTML5, CSS3, Javascript",
         "github": "https://github.com/woaky1/Psychic-Game",
         "weblink": "https://woaky1.github.io/Psychic-Game/"
     },
@@ -86,6 +89,7 @@
         "title": "Train Tracker",
         "img": "./images/traintracker.jpg",
         "description": "An automatically updating train schedule built to learn about Firebase.",
+        "tech": "HTML5, CSS3, Javascript, jQuery, Bootstrap, Firebase, Moment.js",
         "github": "https://github.com/woaky1/trainTracker",
         "weblink": "https://woaky1.github.io/trainTracker/"
     },
@@ -93,6 +97,7 @@
         "title": "Trivia Game",
         "img": "./images/trivia.jpg",
         "description": "A game I put together to practice using timers in Javascript.",
+        "tech": "HTML5, CSS3, Javascript, jQuery, Bootstrap",
         "github": "https://github.com/woaky1/TriviaGame",
         "weblink": "https://woaky1.github.io/TriviaGame/"
     },
@@ -100,6 +105,7 @@
         "title": "WordGuess_Cli",
         "img": "./images/wordguess_cli.jpg",
         "description": "A cli hangman-style game I built to practice working in Node and building constructor functions.",
+        "tech": "Node.js and the inquirer npm package",
         "github": "https://github.com/woaky1/WordGuess_Cli"
     }
 ]
