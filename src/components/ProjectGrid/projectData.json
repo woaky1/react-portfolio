@@ -3,7 +3,7 @@
         "title": "Bamazon",
         "img": "./images/bamazon.jpg",
         "description": "A mySQL/Node project designed to create a CLI shopping experience.",
-        "tech": "mySQL, Node.js, and the mysql and inquirer npm packages",
+        "tech": "mySQL, Node.js, mySQL, and the inquirer npm package",
         "github": "https://github.com/woaky1/bamazon"
     },
     {
@@ -26,7 +26,7 @@
         "title": "Chicago School Search",
         "img": "./images/school-info.jpg",
         "description": "A website that helps Chicago citizens be better informed about public schools in their area.",
-        "tech": "HTML5, CSS3, Bootstrap, Node.js, Sequelize, Node Express, MySQL, Google Maps and Google Geocoding APIs",
+        "tech": "HTML5, CSS3, Bootstrap, Node.js, Sequelize, Express.js, MySQL, Google Maps and Google Geocoding APIs",
         "github": "https://github.com/Chicago-School-Information/school-info",
         "weblink": "https://chicago-school-info.herokuapp.com/"
     },
@@ -34,6 +34,7 @@
         "title": "CrystalsCollector",
         "img": "./images/crystals.jpg",
         "description": "A game I built to develop my Javascript and jQuery skills. Click gems to score points and try to match a random target number.",
+        "tech": "HTML5, CSS3, Bootstrap, Javascript, jQuery",
         "github": "https://github.com/woaky1/unit-4-game",
         "weblink": "https://woaky1.github.io/unit-4-game/"
     },
@@ -41,6 +42,7 @@
         "title": "Eat Da Burger!",
         "img": "./images/burger.jpg",
         "description": "An app for... logging burgers you want to eat.",
+        "tech": "HTML5, CSS3, Bootstrap, Javascript, Node.js, Express.js, Express Handlebars, Heroku, mySQL, JawsDB",
         "github": "https://github.com/woaky1/burger",
         "weblink": "https://young-earth-36081.herokuapp.com/"
     },
