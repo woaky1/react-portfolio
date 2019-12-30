@@ -3,12 +3,14 @@
         "title": "Bamazon",
         "img": "./images/bamazon.jpg",
         "description": "A mySQL/Node project designed to create a CLI shopping experience.",
+        "tech": "mySQL, Node.js, mySQL, and the inquirer npm package",
         "github": "https://github.com/woaky1/bamazon"
     },
     {
         "title": "Brooklyn 99 Gif Generator",
         "img": "./images/99.jpg",
         "description": "Search for gifs of everyone's favorite police force.",
+        "tech": "HTML5, CSS3, Javascript, Bootstrap, jQuery, Giphy API",
         "github": "https://github.com/woaky1/giphyProject",
         "weblink": "https://woaky1.github.io/giphyProject/"
     },
@@ -16,6 +18,7 @@
         "title": "Chicago Commute Checker",
         "img": "./images/commute.jpg",
         "description": "A web application to help Chicago commuters figure out what their commute will look like.",
+        "tech": "HTML5, CSS3, Javascript, jQuery, Moment.js, Materialize, CTA and OpenWeather APIs",
         "github": "https://github.com/ChicagoCommuteChecker/ChicagoCommuteCheckerApp",
         "weblink": "https://chicagocommutechecker.github.io/ChicagoCommuteCheckerApp/"
     },
@@ -23,6 +26,7 @@
         "title": "Chicago School Search",
         "img": "./images/school-info.jpg",
         "description": "A website that helps Chicago citizens be better informed about public schools in their area.",
+        "tech": "HTML5, CSS3, Bootstrap, Node.js, Sequelize, Express.js, MySQL, Google Maps and Google Geocoding APIs",
         "github": "https://github.com/Chicago-School-Information/school-info",
         "weblink": "https://chicago-school-info.herokuapp.com/"
     },
@@ -30,6 +34,7 @@
         "title": "CrystalsCollector",
         "img": "./images/crystals.jpg",
         "description": "A game I built to develop my Javascript and jQuery skills. Click gems to score points and try to match a random target number.",
+        "tech": "HTML5, CSS3, Bootstrap, Javascript, jQuery",
         "github": "https://github.com/woaky1/unit-4-game",
         "weblink": "https://woaky1.github.io/unit-4-game/"
     },
@@ -37,6 +42,7 @@
         "title": "Eat Da Burger!",
         "img": "./images/burger.jpg",
         "description": "An app for... logging burgers you want to eat.",
+        "tech": "HTML5, CSS3, Bootstrap, Javascript, Node.js, Express.js, Express Handlebars, Heroku, mySQL, JawsDB",
         "github": "https://github.com/woaky1/burger",
         "weblink": "https://young-earth-36081.herokuapp.com/"
     },
@@ -44,6 +50,7 @@
         "title": "FriendFinder",
         "img": "./images/friendfinder.jpg",
         "description": "A friend compatibility app made to get to know Node and Express better.",
+        "tech": "HTML5, CSS3, Javascript, jQuery, Bootstrap, Express.js, Heroku",
         "github": "https://github.com/woaky1/FriendFinder",
         "weblink": "https://gentle-woodland-03458.herokuapp.com/"
     },
@@ -51,12 +58,14 @@
         "title": "Liri",
         "img": "./images/liri.jpg",
         "description": "A command-line-interface entertainment search app.",
+        "tech": "Node.js, dotenv, axios, Moment.js, node-spotify-api, fs, and the OMDb, Bandsintown, and Spotify APIs",
         "github": "https://github.com/woaky1/liri-node-app"
     },
     {
         "title": "PlanIt",
         "img": "./images/planit.jpg",
         "description": "An application is for a user to login and create events/activities to render an itinerary.",
+        "tech": "HTML5, CSS3, Node.js, Passport, bcrypt, React, Express.js, MongoDB, Material-UI, Axios, Moment.js, Heroku",
         "github": "https://github.com/Bootcamp-Vacation-Planner/vacation-planner",
         "weblink": "https://peaceful-eyrie-80310.herokuapp.com/"
     },
@@ -64,6 +73,7 @@
         "title": "PokéClick!",
         "img": "./images/pokeclick.jpg",
         "description": "A memory game created as an exercise for learning React.",
+        "tech": "HTML5, CSS3, Node.js, Bootstrap, React, gh-pages",
         "github": "https://github.com/woaky1/clicky_game",
         "weblink": "https://woaky1.github.io/clicky_game/"
     },
@@ -71,6 +81,7 @@
         "title": "Psychic Game",
         "img": "./images/psychic.jpg",
         "description": "A letter guessing game I developed to help me get to know Javascript programming.",
+        "tech": "HTML5, CSS3, Javascript",
         "github": "https://github.com/woaky1/Psychic-Game",
         "weblink": "https://woaky1.github.io/Psychic-Game/"
     },
@@ -78,6 +89,7 @@
         "title": "Train Tracker",
         "img": "./images/traintracker.jpg",
         "description": "An automatically updating train schedule built to learn about Firebase.",
+        "tech": "HTML5, CSS3, Javascript, jQuery, Bootstrap, Firebase, Moment.js",
         "github": "https://github.com/woaky1/trainTracker",
         "weblink": "https://woaky1.github.io/trainTracker/"
     },
@@ -85,6 +97,7 @@
         "title": "Trivia Game",
         "img": "./images/trivia.jpg",
         "description": "A game I put together to practice using timers in Javascript.",
+        "tech": "HTML5, CSS3, Javascript, jQuery, Bootstrap",
         "github": "https://github.com/woaky1/TriviaGame",
         "weblink": "https://woaky1.github.io/TriviaGame/"
     },
@@ -92,6 +105,7 @@
         "title": "WordGuess_Cli",
         "img": "./images/wordguess_cli.jpg",
         "description": "A cli hangman-style game I built to practice working in Node and building constructor functions.",
+        "tech": "Node.js and the inquirer npm package",
         "github": "https://github.com/woaky1/WordGuess_Cli"
     }
 ]

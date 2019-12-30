@@ -12,6 +12,11 @@ function Project(props) {
                     <Card.Title className="left">{props.project.title}</Card.Title>
                     <Card.Text className="left">
                         {props.project.description}
+                        <br />
+                        <br />
+                        <b>Tech Used:</b>
+                        <br />
+                        {props.project.tech}
                     </Card.Text>
                     <a href={props.project.github} alt="Link to GitHub repo" target="_blank" rel="noopener noreferrer"><Button variant="primary" className="button">GitHub Repo</Button></a>
                     <a href={props.project.weblink} alt="Link to live page" target="_blank" rel="noopener noreferrer"><Button variant="danger" className="button">Live Page</Button></a>
@@ -26,6 +31,11 @@ function Project(props) {
                     <Card.Title className="left">{props.project.title}</Card.Title>
                     <Card.Text className="left">
                         {props.project.description}
+                        <br />
+                        <br />
+                        <b>Tech Used:</b>
+                        <br />
+                        {props.project.tech}
                     </Card.Text>
                     <a href={props.project.github} alt="Link to GitHub Repo" target="_blank" rel="noopener noreferrer"><Button variant="primary">GitHub Repo</Button></a>
                 </Card.Body>
