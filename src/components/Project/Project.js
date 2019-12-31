@@ -5,20 +5,14 @@ import "./projectCSS.css";
 
 //This component takes the information for one project from projectData.json (passed in via props) and populates it into a Bootstrap card for display in the Project Grid.
 function Project(props) {
-    // Since some of my projects are CLI only, we need to set up an array that we will fill with the appropriate buttons depending on the project.
-    let buttons = [];
-    // If the project has a live link, the following two buttons will be added to the buttons array.
+    // Since some of my projects are CLI only, we need to set up an array that we will fill with the live link button if the project has one.
+    let button = [];
     if (props.project.weblink) {
-        buttons.push(
-            <a href={props.project.github} alt="Link to GitHub repo" target="_blank" rel="noopener noreferrer"><Button variant="primary" className="button">GitHub Repo</Button></a>,
+        button.push(
             <a href={props.project.weblink} alt="Link to live page" target="_blank" rel="noopener noreferrer"><Button variant="danger" className="button">Live Page</Button></a>
         )
-        // If the project is CLI, then only this button will be added to the buttons array.
-    } else {
-        buttons.push(
-            <a href={props.project.github} alt="Link to GitHub Repo" target="_blank" rel="noopener noreferrer"><Button variant="primary">GitHub Repo</Button></a>
-        )
     };
+
     return (
         <Card style={{ maxWidth: '18rem', minWidth: "15rem" }}>
             <Card.Img variant="top" src={require(`${props.project.img}`)} />
@@ -32,8 +26,9 @@ function Project(props) {
                     <br />
                     {props.project.tech}
                 </Card.Text>
+                <a href={props.project.github} alt="Link to GitHub Repo" target="_blank" rel="noopener noreferrer"><Button variant="primary">GitHub Repo</Button></a>
                 {/* Here, we display the buttons related to this project by calling the butons array we set earlier. */}
-                {buttons}
+                {button}
             </Card.Body>
         </Card>
     );
