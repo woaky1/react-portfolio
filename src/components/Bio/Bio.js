@@ -7,6 +7,7 @@ import gitHub from './github-128.png'
 import resume from './will_oakley_resume.pdf'
 import "./bioCSS.css"
 
+// The Bio component creates the box containing my quick bio toward the top of the page.
 function Bio() {
     return (
         <Row>
