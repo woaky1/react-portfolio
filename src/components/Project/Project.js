@@ -3,6 +3,7 @@ import Card from 'react-bootstrap/Card';
 import Button from 'react-bootstrap/Button';
 import "./projectCSS.css";
 
+//This component takes the information for one project from projectData.json (passed in via props) and populates it into a Bootstrap card for display in the Project Grid.
 function Project(props) {
     if (props.project.weblink) {
         return (
