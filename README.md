@@ -21,11 +21,25 @@ These are the React files that drive the experience. Among the more important fi
 ## Responsive Design
 This portfolio page has been built to be responsive to different screen sizes. I did this by using the Bootstrap-React npm package as well as some media queries via CSS3.
 
-**Here's how the site looks on a laptop screen**
+**Here's how the site looks on a laptop screen:**
+<br />
 
-**On an iPad**
+![Portfolio on a laptop](./readMeImages/laptopImage.jpg)
+<br />
 
-**On an iPhone 6**
+**On an iPad:**
+<br />
+
+![Portfolio on a iPad](./readMeImages/iPadImage.jpg)
+<br />
+
+**On an iPhone 6:**
+<br />
+
+![Portfolio on an iPhone #1](./readMeImages/iPhoneImage1.jpg)
+<br />
+
+![Portfolio on an iPhone #2](./readMeImages/iPhoneImage2.jpg)
 
 ## Technology Used
 This page uses HTML5, CSS3, React, Bootstrap-React, and the gh-pages npm package to help me deploy to GitHub Pages.
