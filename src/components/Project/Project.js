@@ -9,7 +9,7 @@ function Project(props) {
     let button = [];
     if (props.project.weblink) {
         button.push(
-            <a href={props.project.weblink} alt="Link to live page" target="_blank" rel="noopener noreferrer"><Button variant="danger" className="button">Live Page</Button></a>
+            <a href={props.project.weblink} alt="Link to live page" target="_blank" rel="noopener noreferrer" key="props.project.title"><Button variant="danger" className="button">Live Page</Button></a>
         )
     };
 
