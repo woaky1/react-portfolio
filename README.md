@@ -15,6 +15,7 @@ These are the React files that drive the experience. Among the more important fi
 * App.js: This component provides the general structure of the page and holds global functions and variables the app needs.
 * Header.js: This contains the header bar seen at the top of the page.
 * Bio.js: This component creates the box containing my quick bio toward the top of the page.
+* Skills.js: This component creates the box containing icons of the technologies I'm most familiar with.
 * ProjectGrid.js: This component is used to create the grid we populate the information about projects into.
 * projectData.json: This json file containts all the infomation about the projects that gets populated into the Project Grid.
 * Project.js: This component takes the information for one project from projectData.json and populates it into a Bootstrap card for display in the Project Grid.
@@ -44,7 +45,7 @@ This portfolio page has been built to be responsive to different screen sizes. I
 ![Portfolio on an iPhone #2](./readMeImages/iPhoneImage2.jpg)
 
 ## Technology Used
-This page uses HTML5, CSS3, React, Bootstrap-React, and the gh-pages npm package to help me deploy to GitHub Pages.
+This page uses HTML5, CSS3, React, Bootstrap-React, Bootstrap Icons, and the gh-pages npm package to help me deploy to GitHub Pages.
 
 ## About Me
 I'm a full stack web developer. Thanks for taking the time to check out my portfolio.
