@@ -27,22 +27,22 @@ function Skills() {
                             </Row>
                             <Row style={{paddingBottom: "3rem"}}>
                                 <Col>
-                                    <Image className="icon" src={HTMLIcon} fluid />
+                                    <Image className="icon" src={HTMLIcon} fluid title="HTML5" />
                                 </Col>
                                 <Col>
-                                    <Image className="icon" src={CSSIcon} fluid />
+                                    <Image className="icon" src={CSSIcon} fluid title="CSS3" />
                                 </Col>
                                 <Col>
-                                    <Image className="icon" src={JSIcon} fluid />
+                                    <Image className="icon" src={JSIcon} fluid title="JavaScript" />
                                 </Col>
                                 <Col>
-                                    <Image className="icon" id="node" src={NodeIcon} fluid />
+                                    <Image className="icon" id="node" src={NodeIcon} fluid title="Node.js" />
                                 </Col>
                                 <Col>
-                                    <Image className="icon" src={ReactIcon} fluid />
+                                    <Image className="icon" src={ReactIcon} fluid title="React"/>
                                 </Col>
                                 <Col>
-                                    <Image className="icon" src={BootIcon} fluid />
+                                    <Image className="icon" src={BootIcon} fluid title="Bootstrap"/>
                                 </Col>
                             </Row>
                         </div>
