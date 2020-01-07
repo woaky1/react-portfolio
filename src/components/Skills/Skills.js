@@ -10,6 +10,7 @@ import NodeIcon from './icons/320px-Node.js_logo.svg.png'
 import ReactIcon from './icons/logo192.png'
 import BootIcon from './icons/bootstrap-solid.svg'
 
+// This component creates the box containing icons of the technologies I'm most familiar with.
 function Skills() {
     return (
         <Row>
