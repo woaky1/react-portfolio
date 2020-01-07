@@ -10,7 +10,7 @@
         "title": "Brooklyn 99 Gif Generator",
         "img": "./images/99.jpg",
         "description": "Search for gifs of everyone's favorite police force.",
-        "tech": "HTML5, CSS3, Javascript, Bootstrap, jQuery, Giphy API",
+        "tech": "HTML5, CSS3, JavaScript, Bootstrap, jQuery, Giphy API",
         "github": "https://github.com/woaky1/giphyProject",
         "weblink": "https://woaky1.github.io/giphyProject/"
     },
@@ -18,7 +18,7 @@
         "title": "Chicago Commute Checker",
         "img": "./images/commute.jpg",
         "description": "A web application to help Chicago commuters figure out what their commute will look like.",
-        "tech": "HTML5, CSS3, Javascript, jQuery, Moment.js, Materialize, CTA and OpenWeather APIs",
+        "tech": "HTML5, CSS3, JavaScript, jQuery, Moment.js, Materialize, CTA and OpenWeather APIs",
         "github": "https://github.com/ChicagoCommuteChecker/ChicagoCommuteCheckerApp",
         "weblink": "https://chicagocommutechecker.github.io/ChicagoCommuteCheckerApp/"
     },
@@ -33,8 +33,8 @@
     {
         "title": "CrystalsCollector",
         "img": "./images/crystals.jpg",
-        "description": "A game I built to develop my Javascript and jQuery skills. Click gems to score points and try to match a random target number.",
-        "tech": "HTML5, CSS3, Bootstrap, Javascript, jQuery",
+        "description": "A game I built to develop my JavaScript and jQuery skills. Click gems to score points and try to match a random target number.",
+        "tech": "HTML5, CSS3, Bootstrap, JavaScript, jQuery",
         "github": "https://github.com/woaky1/unit-4-game",
         "weblink": "https://woaky1.github.io/unit-4-game/"
     },
@@ -42,7 +42,7 @@
         "title": "Eat Da Burger!",
         "img": "./images/burger.jpg",
         "description": "An app for... logging burgers you want to eat.",
-        "tech": "HTML5, CSS3, Bootstrap, Javascript, Node.js, Express.js, Express Handlebars, Heroku, mySQL, JawsDB",
+        "tech": "HTML5, CSS3, Bootstrap, JavaScript, Node.js, Express.js, Express Handlebars, Heroku, mySQL, JawsDB",
         "github": "https://github.com/woaky1/burger",
         "weblink": "https://young-earth-36081.herokuapp.com/"
     },
@@ -50,7 +50,7 @@
         "title": "FriendFinder",
         "img": "./images/friendfinder.jpg",
         "description": "A friend compatibility app made to get to know Node and Express better.",
-        "tech": "HTML5, CSS3, Javascript, jQuery, Bootstrap, Express.js, Heroku",
+        "tech": "HTML5, CSS3, JavaScript, jQuery, Bootstrap, Express.js, Heroku",
         "github": "https://github.com/woaky1/FriendFinder",
         "weblink": "https://gentle-woodland-03458.herokuapp.com/"
     },
@@ -80,8 +80,8 @@
     {
         "title": "Psychic Game",
         "img": "./images/psychic.jpg",
-        "description": "A letter guessing game I developed to help me get to know Javascript programming.",
-        "tech": "HTML5, CSS3, Javascript",
+        "description": "A letter guessing game I developed to help me get to know JavaScript programming.",
+        "tech": "HTML5, CSS3, JavaScript",
         "github": "https://github.com/woaky1/Psychic-Game",
         "weblink": "https://woaky1.github.io/Psychic-Game/"
     },
@@ -89,15 +89,15 @@
         "title": "Train Tracker",
         "img": "./images/traintracker.jpg",
         "description": "An automatically updating train schedule built to learn about Firebase.",
-        "tech": "HTML5, CSS3, Javascript, jQuery, Bootstrap, Firebase, Moment.js",
+        "tech": "HTML5, CSS3, JavaScript, jQuery, Bootstrap, Firebase, Moment.js",
         "github": "https://github.com/woaky1/trainTracker",
         "weblink": "https://woaky1.github.io/trainTracker/"
     },
     {
         "title": "Trivia Game",
         "img": "./images/trivia.jpg",
-        "description": "A game I put together to practice using timers in Javascript.",
-        "tech": "HTML5, CSS3, Javascript, jQuery, Bootstrap",
+        "description": "A game I put together to practice using timers in JavaScript.",
+        "tech": "HTML5, CSS3, JavaScript, jQuery, Bootstrap",
         "github": "https://github.com/woaky1/TriviaGame",
         "weblink": "https://woaky1.github.io/TriviaGame/"
     },
