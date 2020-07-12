@@ -5,7 +5,7 @@ import Navbar from 'react-bootstrap/Navbar';
 function Header() {
     return (
         <Navbar bg="dark">
-            <Navbar.Brand style={{color: 'white'}}>Will Oakley: Full Stack Web Developer</Navbar.Brand>
+            <Navbar.Brand style={{color: 'white'}}>Will Oakley: Writer/Full Stack Web Developer</Navbar.Brand>
         </Navbar>
     );
 }
