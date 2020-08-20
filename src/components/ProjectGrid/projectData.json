@@ -62,14 +62,6 @@
         "github": "https://github.com/woaky1/liri-node-app"
     },
     {
-        "title": "PlanIt",
-        "img": "./images/planit.jpg",
-        "description": "An application is for a user to login and create events/activities to render an itinerary.",
-        "tech": "HTML5, CSS3, Node.js, Passport, bcrypt, React, Express.js, MongoDB, Material-UI, Axios, Moment.js, Heroku",
-        "github": "https://github.com/Bootcamp-Vacation-Planner/vacation-planner",
-        "weblink": "https://peaceful-eyrie-80310.herokuapp.com/"
-    },
-    {
         "title": "PokéClick!",
         "img": "./images/pokeclick.jpg",
         "description": "A memory game created as an exercise for learning React.",
