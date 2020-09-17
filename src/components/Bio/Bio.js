@@ -34,7 +34,7 @@ function Bio() {
                                     <div>
                                         <p className="bioText">Hey there! My name is Will Oakley. I'm a writer, production specialist, and graduate of Northwestern's Coding Bootcamp, with twelve years of experience working in software development.</p>
                                         <p className="bioText">I'm interested in web development, JavaScript, and finding ways to apply technology to help others.</p>
-                                        <p className="bioText">I'm also a <a href="https://ddb.ac/characters/2700895/iwpTsp" target="_blank" rel="noopener noreferrer">level 10 barbarian/warlock</a> in a <em>Dungeons &amp; Dragons</em> game with my friends.</p>
+                                        <p className="bioText">I'm also a <a href="https://ddb.ac/characters/2700895/iwpTsp" target="_blank" rel="noopener noreferrer">level 11 barbarian/warlock</a> in a <em>Dungeons &amp; Dragons</em> game with my friends.</p>
                                         <p className="bioText">You can check out my resum&#233; <a href={resume} target='_blank' rel='noopener noreferrer'>here</a>, and you can reach me at <a href="mailto:wmoakley@gmail.com" target='_blank' rel='noopener noreferrer'>wmoakley@gmail.com</a>.</p>
                                         <a href="https://www.linkedin.com/in/william-oakley-49b7b618b/" target='_blank' rel='noopener noreferrer' title='LinkedIn Page'>
                                             <img src={linkedIn} alt='Link to LinkedIn Page' className='linkIcon' id='linkedInIcon' />
